@@ -1,0 +1,2 @@
+c20d38b8-bf78-4c90-b9a1-f3848f4eabdb:1766853877409:194:S:select last_name, to_char(hire_date,'DD-MM-YYYY') "Hire Date"\nfrom EMPLOYEES;
+334bf1af-2af3-40d3-97d7-96c801b9c3f4:1766853953090:0:F:select last_name, to_char(hire_date,'Dpspth Month, Year') "Hire Date"\nfrom EMPLOYEES;
